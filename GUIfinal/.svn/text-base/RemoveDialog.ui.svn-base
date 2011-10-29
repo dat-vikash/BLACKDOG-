@@ -1,0 +1,254 @@
+<ui version="4.0" >
+ <class>RemoveDialog</class>
+ <widget class="QDialog" name="RemoveDialog" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>291</width>
+    <height>294</height>
+   </rect>
+  </property>
+  <property name="sizePolicy" >
+   <sizepolicy>
+    <hsizetype>0</hsizetype>
+    <vsizetype>0</vsizetype>
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle" >
+   <string>Remove Obstacles</string>
+  </property>
+  <layout class="QGridLayout" >
+   <property name="margin" >
+    <number>9</number>
+   </property>
+   <property name="spacing" >
+    <number>6</number>
+   </property>
+   <item row="8" column="1" colspan="2" >
+    <widget class="QPushButton" name="cancelButton" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Cancel</string>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="3" colspan="2" >
+    <widget class="QPushButton" name="commitButton" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Commit</string>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="2" colspan="2" >
+    <widget class="QLineEdit" name="brLongMEdit" />
+   </item>
+   <item row="6" column="2" colspan="2" >
+    <widget class="QLineEdit" name="brLatMEdit" />
+   </item>
+   <item row="7" column="4" >
+    <widget class="QLineEdit" name="brLongSEdit" />
+   </item>
+   <item row="6" column="4" >
+    <widget class="QLineEdit" name="brLatSEdit" />
+   </item>
+   <item row="2" column="4" >
+    <widget class="QLineEdit" name="tlLatSEdit" />
+   </item>
+   <item row="6" column="1" >
+    <widget class="QLineEdit" name="brLatDEdit" />
+   </item>
+   <item row="7" column="1" >
+    <widget class="QLineEdit" name="brLongDEdit" />
+   </item>
+   <item row="1" column="4" >
+    <widget class="QLabel" name="sLabel" >
+     <property name="text" >
+      <string>Seconds</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="3" >
+    <widget class="QLabel" name="mLabel" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Minutes</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="4" >
+    <widget class="QLineEdit" name="tlLongSEdit" />
+   </item>
+   <item row="3" column="2" colspan="2" >
+    <widget class="QLineEdit" name="tlLongMEdit" />
+   </item>
+   <item row="2" column="2" colspan="2" >
+    <widget class="QLineEdit" name="tlLatMEdit" />
+   </item>
+   <item row="3" column="1" >
+    <widget class="QLineEdit" name="tlLongDEdit" />
+   </item>
+   <item row="2" column="1" >
+    <widget class="QLineEdit" name="tlLatDEdit" />
+   </item>
+   <item row="6" column="0" >
+    <widget class="QLabel" name="latLabel_2" >
+     <property name="text" >
+      <string>Latitude</string>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="0" >
+    <widget class="QLabel" name="longLabel_2" >
+     <property name="text" >
+      <string>Longitude</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0" >
+    <widget class="QLabel" name="latLabel" >
+     <property name="text" >
+      <string>Latitude</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0" >
+    <widget class="QLabel" name="longLabel" >
+     <property name="text" >
+      <string>Longitude</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="3" >
+    <widget class="QLabel" name="mLabel_2" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Minutes</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="4" >
+    <widget class="QLabel" name="sLabel_2" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Seconds</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1" >
+    <widget class="QLabel" name="dLabel" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Degrees</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" >
+    <widget class="QLabel" name="tlLabel" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Point One:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="1" >
+    <widget class="QLabel" name="dLabel_2" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>5</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Degrees</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="0" >
+    <widget class="QLabel" name="tlLabel_2" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>0</hsizetype>
+       <vsizetype>0</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Point Two:</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>tlLatDEdit</tabstop>
+  <tabstop>tlLatMEdit</tabstop>
+  <tabstop>tlLatSEdit</tabstop>
+  <tabstop>tlLongDEdit</tabstop>
+  <tabstop>tlLongMEdit</tabstop>
+  <tabstop>tlLongSEdit</tabstop>
+  <tabstop>brLatDEdit</tabstop>
+  <tabstop>brLatMEdit</tabstop>
+  <tabstop>brLatSEdit</tabstop>
+  <tabstop>brLongDEdit</tabstop>
+  <tabstop>brLongMEdit</tabstop>
+  <tabstop>brLongSEdit</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,79 @@
+8
+
+dir
+822
+https://eclipse.db.erau.edu/svn/se450/source_code/trunk/TruckSim
+https://eclipse.db.erau.edu/svn/se450/source_code
+
+
+
+2008-04-20T22:02:27.924890Z
+822
+ladys0f2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d04af52-f63a-0410-99cb-bc18c2a8d1e4
+
+.project
+file
+
+
+
+
+2008-02-25T01:04:27.114875Z
+5b1d079129fcda5b54a0e946ec137860
+2008-02-21T21:15:07.734001Z
+573
+ryan38e
+
+__init__.py
+file
+
+
+
+
+2008-02-25T01:04:27.114875Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-29T23:43:24.466174Z
+426
+carso154
+
+src
+dir
+
+main.py
+file
+
+
+
+
+2008-02-25T01:04:27.114875Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-29T21:25:12.891440Z
+424
+carso154
+
+.pydevproject
+file
+
+
+
+
+2008-03-28T02:21:10.818500Z
+c0744960729991c444e27485386403a6
+2008-03-06T17:59:58.126980Z
+666
+carso154
+

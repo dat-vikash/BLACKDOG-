@@ -1,0 +1,93 @@
+8
+
+dir
+822
+https://eclipse.db.erau.edu/svn/se450/source_code/trunk/TruckSim/src
+https://eclipse.db.erau.edu/svn/se450/source_code
+
+
+
+2008-04-20T22:02:27.924890Z
+822
+ladys0f2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d04af52-f63a-0410-99cb-bc18c2a8d1e4
+
+Archive
+dir
+
+__init__.py
+file
+
+
+
+
+2008-02-25T01:04:27.083625Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-29T23:43:24.466174Z
+426
+carso154
+
+TruckSim.py
+file
+
+
+
+
+2008-04-21T03:52:21.743875Z
+acc567103c04ea13b5d86952bf76dafb
+2008-04-20T22:02:27.924890Z
+822
+ladys0f2
+
+Manual Control API for BlackDog.doc
+file
+
+
+
+
+2008-02-25T01:04:27.083625Z
+c0ca7fa63cb2d9ad7af8217c434f23e0
+2008-01-29T21:17:51.750761Z
+418
+carso154
+has-props
+
+main.py
+file
+
+
+
+
+2008-02-25T01:04:27.099250Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-29T21:17:51.750761Z
+418
+carso154
+
+UGV_API_v[1].1.doc
+file
+
+
+
+
+2008-04-21T03:52:21.743875Z
+720668ac3ecdad5db1ff5b2bd9a87f5c
+2008-04-20T19:52:14.219652Z
+816
+ladys0f2
+has-props
+

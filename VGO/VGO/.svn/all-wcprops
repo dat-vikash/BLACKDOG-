@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/se450/source_code/!svn/ver/820/trunk/VGO/VGO
+END
+Communications.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/se450/source_code/!svn/ver/817/trunk/VGO/VGO/Communications.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/se450/source_code/!svn/ver/441/trunk/VGO/VGO/__init__.py
+END
+ObjectGen.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/se450/source_code/!svn/ver/807/trunk/VGO/VGO/ObjectGen.py
+END
+ObjectGenTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/se450/source_code/!svn/ver/441/trunk/VGO/VGO/ObjectGenTest.py
+END
+ObjectGenNOc.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/se450/source_code/!svn/ver/820/trunk/VGO/VGO/ObjectGenNOc.py
+END
+Conversion.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/se450/source_code/!svn/ver/757/trunk/VGO/VGO/Conversion.py
+END
+Packet.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/se450/source_code/!svn/ver/813/trunk/VGO/VGO/Packet.py
+END

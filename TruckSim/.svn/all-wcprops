@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/se450/source_code/!svn/ver/822/trunk/TruckSim
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/se450/source_code/!svn/ver/573/trunk/TruckSim/.project
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/se450/source_code/!svn/ver/426/trunk/TruckSim/__init__.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/se450/source_code/!svn/ver/424/trunk/TruckSim/main.py
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/se450/source_code/!svn/ver/666/trunk/TruckSim/.pydevproject
+END

@@ -1,0 +1,88 @@
+<ui version="4.0" >
+ <class>WaypointTableWindow</class>
+ <widget class="QWidget" name="WaypointTableWindow" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>442</width>
+    <height>223</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Waypoint Table</string>
+  </property>
+  <layout class="QGridLayout" >
+   <property name="margin" >
+    <number>9</number>
+   </property>
+   <property name="spacing" >
+    <number>6</number>
+   </property>
+   <item row="1" column="4" >
+    <widget class="QPushButton" name="removeButton" >
+     <property name="text" >
+      <string>Remove</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="3" >
+    <widget class="QPushButton" name="insertButton" >
+     <property name="text" >
+      <string>Insert</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2" >
+    <widget class="QPushButton" name="appendButton" >
+     <property name="text" >
+      <string>Append</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1" >
+    <widget class="QPushButton" name="goToButton" >
+     <property name="text" >
+      <string>Go To</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" >
+    <widget class="QPushButton" name="modifyButton" >
+     <property name="text" >
+      <string>Modify</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" colspan="5" >
+    <widget class="QTableWidget" name="receivedTable" >
+     <property name="sizePolicy" >
+      <sizepolicy>
+       <hsizetype>5</hsizetype>
+       <vsizetype>5</vsizetype>
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <column>
+      <property name="text" >
+       <string>Latitude</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>Longitude</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>Type</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

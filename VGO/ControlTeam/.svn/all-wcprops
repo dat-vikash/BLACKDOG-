@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/se450/source_code/!svn/ver/811/trunk/VGO/ControlTeam
+END
+Navigator.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/se450/source_code/!svn/ver/811/trunk/VGO/ControlTeam/Navigator.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/se450/source_code/!svn/ver/751/trunk/VGO/ControlTeam/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/se450/source_code/!svn/ver/441/trunk/VGO/ControlTeam/__init__.py
+END
+WaylistManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/se450/source_code/!svn/ver/800/trunk/VGO/ControlTeam/WaylistManager.py
+END
+ControlTeamUnitTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/se450/source_code/!svn/ver/441/trunk/VGO/ControlTeam/ControlTeamUnitTest.py
+END
+ObstacleManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/se450/source_code/!svn/ver/799/trunk/VGO/ControlTeam/ObstacleManager.py
+END
